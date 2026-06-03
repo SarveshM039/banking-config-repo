@@ -14,7 +14,7 @@ spring:
   data:
     redis:
       host: localhost
-      port: 6371
+      port: 6379
 
   cloud:
     gateway:
